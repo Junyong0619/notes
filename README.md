@@ -13,7 +13,9 @@
   
 # Links
 * [Markdown](https://www.markdownguide.org/basic-syntax/)
-
+* [Longman Dictionary](https://www.ldoceonline.com/)
+* [Canva](https://www.canva.com/)
+ 
 # Experiments
 * :blush:
 * :smirk:
