@@ -1,4 +1,4 @@
-# notes
+<!-- # notes
 
 # Number of row charactors
 * ! (exclamation point, bang, 느낌표)
@@ -20,4 +20,15 @@
 * :blush:
 * :smirk:
 * :kissing_closed_eyes:
-* :satisfied:
+* :satisfied: -->
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Alt+F4  (To close the open Application/Window)
+- Ctrl+X (Cut)
+- F5 (Return Entry)
+
+Shortcuts I would like to start using: 
+- F1 (Shortcut Keys)
+- F3 (Change Bill Amount)
+- Ctrl+Alt+C (Customer)
