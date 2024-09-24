@@ -17,10 +17,10 @@
 * [Canva](https://www.canva.com/)
  
 # Experiments
-* :blush:
-* :smirk:
-* :kissing_closed_eyes:
-* :satisfied:
+* :blush: 😊
+* :smirk: 😏
+* :kissing_closed_eyes: 😚
+* :satisfied: 😆
 
 # Lab assignment week4
 
