@@ -1,4 +1,4 @@
-<!-- # notes
+# notes
 
 # Number of row charactors
 * ! (exclamation point, bang, 느낌표)
@@ -20,7 +20,9 @@
 * :blush:
 * :smirk:
 * :kissing_closed_eyes:
-* :satisfied: -->
+* :satisfied:
+
+# Lab assignment week4
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
