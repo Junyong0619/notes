@@ -34,3 +34,8 @@ Shortcuts I would like to start using:
 - F1 (Shortcut Keys)
 - F3 (Change Bill Amount)
 - Ctrl+Alt+C (Customer)
+
+# Lab assignment week5
+
+## New page link
+[CLI commands](docs/cli.md)
