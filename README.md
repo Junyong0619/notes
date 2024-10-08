@@ -37,5 +37,6 @@ Shortcuts I would like to start using:
 
 # Lab assignment week5
 
-## New page link
+## Datamgmt
+
 [CLI commands](docs/cli.md)
