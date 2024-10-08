@@ -1,5 +1,7 @@
-## Describing cat, ls
-cat: This is the command that exceeds to the certain files. 
-ls: This is the command that to see the file lists.
+# Describing cat and ls
 
-[CLI commands](docs/cli.md)
+## cat
+cat: This is the command that exceeds to the certain files. 
+
+## ls
+ls: This is the command that to see the file lists.
